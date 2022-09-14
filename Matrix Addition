@@ -31,8 +31,7 @@ import java.io.*;
          int size = 2; 
    
          int A[][] = { { 1, 2}, 
-                       { 5, 3}}; 
-         // Print the matrices A 
+                       { 5, 3}};
          System.out.println("\nMatrix A:"); 
          printMatrix(A, size, size); 
    
